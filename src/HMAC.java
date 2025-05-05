@@ -12,6 +12,8 @@ public class HMAC {
 //        String timeStamp = "1712654530";
 //        String url = "/apiproxy/api99u01A01";
 
+        
+        //이건 테스트 하는중
         String accessToken = "gcmsAmaranth34008|2085|wITIRwhQTkLBPLXlnLEZb4yw4dH2L5";
         String hashKey = "27780528922021237497284876318994801543812214";
         String transactionId = "a4b8j1k9l2z7w3n5d0t6m0r4v2xgfe";
